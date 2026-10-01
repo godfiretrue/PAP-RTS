@@ -22,4 +22,4 @@ Desenvolver um jogo completo em Godot aplicando uma arquitetura dupla (GDScript 
 
 * **Humanos:** Democracia medieval, Heróis com magias fortes e recrutamento rápido. Usam Cristais Aether (minados em Planícies).
 * **Elfos:** Ditadura tecnológica com armas de fogo, tanques e artilharia. Defesa fanática na capital. Usam Ferro (minado em Montanhas).
-* **Ratos:** Enxame de unidades baratas, subcidades invisíveis e conversão de prisioneiros. Usam Mutagéneo (ganho em batalhas).
+* **Ratos🐭:** Enxame de unidades baratas, subcidades invisíveis e conversão de prisioneiros. Usam Mutagéneo (ganho em batalhas).
